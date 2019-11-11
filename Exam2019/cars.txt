@@ -1,0 +1,6 @@
+ELECTRIC_CAR Tesla, Model X, 200KW, 40000Ah, 300000 euro
+ELECTRIC_CAR Tesla, Model 3, 150KW, 50000Ah, 30000 euro
+GAS_CAR Honda, Civic, 1.5L, 80KW, 18000 euro
+HYBRID_CAR Toyota, Prius, 1.5L, 50KW, 12000Ah, 24000 euro
+GAS_CAR Audi, Model 52, 1.7L, 130KW, 20000 euro
+GAS_CAR Honda, Civic, 1.5L, 1.5KW, 18000 euro

@@ -1,0 +1,7 @@
+1542051177613	Delete element
+1542051750212	Rename type 'AppleDevice'
+1542051995632	Delete element
+1542052837965	Rename field 'Touch3D'
+1542053036325	Rename local variable 'touch3d'
+1542053375386	Encapsulate field 'model'
+1542057099806	Rename local variable 'has4g'

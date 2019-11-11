@@ -1,0 +1,22 @@
+TRAIN: INTERCITY
+DEPARTS: 14:20
+ARRIVES: 15:00
+IC-STATION: Rotterdam Centraal
+IC-STATION: Schiedam Centrum
+STATION: Delft Zuid
+IC-STATION: Delft
+STATION: Rijswijk
+STATION: Den Haag Moerwijk
+IC-STATION: Den Haag HS
+END
+TRAIN: SPRINTER
+DEPARTS: 14:30
+ARRIVES: 15:20
+IC-STATION: Rotterdam Centraal
+IC-STATION: Schiedam Centrum
+STATION: Delft Zuid
+IC-STATION: Delft
+STATION: Rijswijk
+STATION: Den Haag Moerwijk
+IC-STATION: Den Haag HS
+END
